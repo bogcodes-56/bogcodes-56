@@ -12,7 +12,7 @@ I enjoy designing, building, and continuously improving user-friendly digital ex
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Programming:** C, C++  
-- **Tools & Productivity:** Figma, Obsidian  
+- **Tools & Productivity:** Figma,Notion , Obsidian  
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy writing clean, maintainable code and building interactive websites that 
 
 ## 🎯 Hobbies & Interests  
 - 🎨 Exploring UI/UX design and creative layouts
-- 📺 Watching anime. Monster,Demon Slayer is my Fav. Anime
+- 📺 Watching anime. Monster,100 meters ,Demon Slayer, JJK , Vindland Saga is my Fav. Anime
 - 📖 Learning new technologies and frameworks  
 - ✍️ Organizing ideas and notes in Obsidian  
 - 🎧 Listening to music while coding  
